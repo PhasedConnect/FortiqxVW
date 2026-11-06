@@ -28,9 +28,10 @@ is published.
 
 ### Support
 
-- Email: [support@phasedconnect.eu](mailto:support@phasedconnect.eu)
-- Phone: +385 1 2751 604
-- Web: [www.phasedconnect.eu](https://www.phasedconnect.eu)
+**[Open a support ticket](https://phasedconnect.atlassian.net/servicedesk/customer/portal/73)** on the PhasedConnect service desk.
+Please mention the app version (shown under **About** in the app).
+
+Web: [www.phasedconnect.eu](https://www.phasedconnect.eu)
 
 ---
 
@@ -56,9 +57,10 @@ je nova verzija objavljena.
 
 ### Podrška
 
-- E-pošta: [support@phasedconnect.eu](mailto:support@phasedconnect.eu)
-- Telefon: +385 1 2751 604
-- Web: [www.phasedconnect.eu](https://www.phasedconnect.eu)
+**[Otvorite zahtjev za podršku](https://phasedconnect.atlassian.net/servicedesk/customer/portal/73)** na PhasedConnect servisnom portalu.
+Navedite verziju aplikacije (prikazana u prozoru **O aplikaciji**).
+
+Web: [www.phasedconnect.eu](https://www.phasedconnect.eu)
 
 ---
 
